@@ -36,7 +36,7 @@ context:
                 description: About
                 css_class: about
                 type: page
-                url: aaa.html
+                url: about
 meta:
     nodemeta: meta.yaml
     created: !!timestamp 2010-01-01 00:00:00
@@ -62,8 +62,8 @@ tagger:
 publisher:
     github:
         type: hyde.ext.publishers.dvcs.Git
-        path: ../tlhc.github.com/
-        url: git@github.gmail:tlhc/tlhc.github.com.git
+        path: ../tlhc.github.io/
+        url: git@github.gmail:tlhc/tlhc.github.io.git
 
 
 
