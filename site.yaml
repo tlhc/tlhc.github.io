@@ -36,7 +36,7 @@ context:
                 description: About
                 css_class: about
                 type: page
-                url: about
+                url: aaa
 meta:
     nodemeta: meta.yaml
     created: !!timestamp 2010-01-01 00:00:00
